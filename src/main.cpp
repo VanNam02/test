@@ -1,5 +1,3 @@
-#include <Arduino.h> 
-#include <LiquidCrystal_I2C.h>
 
 int red = 12;
 int yellow = 14;
